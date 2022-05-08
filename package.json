@@ -1,0 +1,23 @@
+{
+  "name": "conrods-guest-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljohannesmeier/conrods-guest-house.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljohannesmeier/conrods-guest-house/issues"
+  },
+  "homepage": "https://github.com/michaeljohannesmeier/conrods-guest-house#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
